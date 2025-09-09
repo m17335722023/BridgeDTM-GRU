@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software release."
+title: "BridgeDTM-GRU: Digital twin model of a high-speed railway bridge based on deep learning"
+authors:
+  - family-names: Yang
+    given-names: Haoxiang
+  - family-names: Ding
+    given-names: Youliang
+  - family-names: Geng
+    given-names: Fangfang
+  - family-names: Yang
+    given-names: Kang
+version: "v1.0.0"
+date-released: "2025-09-09"
+repository-code: "https://github.com/m17335722023/BridgeDTM-GRU"
+license: "Apache-2.0"
+preferred-citation:
+  type: article
+  title: "Digital twin model of a high-speed railway bridge based on deep learning and high-precision prediction of its seismic responses"
+  authors:
+    - family-names: Yang
+      given-names: Haoxiang
+    - family-names: Ding
+      given-names: Youliang
+    - family-names: Geng
+      given-names: Fangfang
+    - family-names: Yang
+      given-names: Kang
+  journal: "Computers & Geosciences"
+  year: 2025
+  # add volume, pages, and doi after acceptance

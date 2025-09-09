@@ -1,0 +1,8 @@
+Release checklist for v1.0.0
+- [x] Repository is public
+- [x] License: Apache-2.0
+- [x] README.md (GitHub) + README.txt (journal package) updated
+- [x] CITATION.cff repository link set
+- [x] Git LFS enabled for .mat/.fig/.h5/.zip
+- [x] Tag created: v1.0.0
+- [x] GitHub Release drafted using RELEASE_NOTES.md; attach ZIP and/or figures if desired

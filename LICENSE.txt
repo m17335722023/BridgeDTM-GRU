@@ -1,0 +1,3 @@
+Apache License 2.0 (short placeholder)
+You selected Apache-2.0 in GitHub. If a full LICENSE file was not added automatically,
+replace this placeholder with the full text from https://www.apache.org/licenses/LICENSE-2.0.txt
